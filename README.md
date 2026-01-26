@@ -53,7 +53,9 @@ pip install -r requirements.txt
 <br>
 
 ### 2. Train the Model
+```bash
 python src/train_model.py
+```
 
 This step:
 Preprocesses the dataset
@@ -62,7 +64,9 @@ Saves the trained model and vectorizer to the models/ directory
 <br>
 
 ### 3️. Evaluate the Model
+```bash
 python src/evaluate.py
+```
 
 This generates:
 Classification report (precision, recall, F1-score)
@@ -70,7 +74,9 @@ Confusion matrix for class-wise performance analysis
 <br>
 
 ### 4. Run the Live Demo
+```bash
 python demo/demo_app.py
+```
 
 This launches an interactive command-line demo where users can enter a support ticket and receive predictions instantly.
 <br>
