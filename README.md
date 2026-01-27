@@ -1,4 +1,4 @@
-# 🧾 Support Ticket Classification & Prioritization System
+# Support Ticket Classification & Prioritization System
 **Author:** Sujal Das (ssd)  
 **Role:** Engineering Student | AI / ML Enthusiast  
 <br>
